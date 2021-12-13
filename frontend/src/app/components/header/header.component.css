@@ -1,0 +1,14 @@
+  .nav-link,
+  .navbar-brand {
+    color: white;
+  }
+  
+  .active-link {
+    background-color: rgb(27, 38, 44);
+    color: white;
+    border-radius: 0 10px 0 10px;
+  }
+
+  .header{
+    background-color: rgb(15, 76, 117);
+  }
